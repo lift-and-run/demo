@@ -1,3 +1,3 @@
 ## Readme
 
-# Project description
+# Description
